@@ -1,1 +1,2 @@
-[![jbaquino3's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbaquino3)]
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=jbaquino3&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
